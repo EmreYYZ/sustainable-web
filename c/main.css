@@ -1,0 +1,23 @@
+body {
+    font-family: monospace;
+    color: white;
+    background-color: black;
+    width: 60ch;
+    margin: auto;
+    margin-top: 4ch;
+    line-height: 1.4;
+    font-size: 16px;
+}
+
+h1{
+    font-weight: bold;
+}
+img {
+    width: 100%;
+}
+a{
+    color: lightskyblue;
+}
+.i {
+    font-style: italic;
+}
